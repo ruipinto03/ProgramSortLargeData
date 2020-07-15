@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rui/Desktop/apresentacao/ponto2/funcoesAuxiliares.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+unistd.h
+-
+fcntl.h
+-
+ponto12.h
+/home/rui/Desktop/apresentacao/ponto2/ponto12.h
+
+/home/rui/Desktop/apresentacao/ponto2/main.c
+ponto12.h
+/home/rui/Desktop/apresentacao/ponto2/ponto12.h
+funcoesAuxiliares.h
+/home/rui/Desktop/apresentacao/ponto2/funcoesAuxiliares.h
+
+/home/rui/Desktop/apresentacao/ponto2/ponto12.h
+

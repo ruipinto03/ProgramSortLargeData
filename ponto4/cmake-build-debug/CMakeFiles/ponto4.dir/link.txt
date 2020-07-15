@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ponto4.dir/main.c.o CMakeFiles/ponto4.dir/funcoesAuxiliares.c.o  -o ponto4 
